@@ -5,6 +5,6 @@ class Freddie extends Musico{
   @override
   void fazerSom() {
     super.fazerSom();
-    print("MAAAAMAAAAAAAA HUUUUUOOO");
+  
   }
 }

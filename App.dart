@@ -6,7 +6,7 @@ void main(List<String> args) {
   Freddie freddie = Freddie("ROCK", "Freddie Mercury", 45);
 
   elvis.fazerSom();
-  elvis.dancar();
+  //elvis.dancar();
 
   freddie.fazerSom();
 }
