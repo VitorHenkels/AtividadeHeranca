@@ -3,9 +3,9 @@ class Musico {
   String nome;
   int idade;
 
-  Musico(this.genero,this.nome,this.idade);
+  Musico(this.genero, this.nome, this.idade);
 
-  void fazerSom(){
+  void fazerSom() {
     print("$nome fazendo música");
   }
 }
